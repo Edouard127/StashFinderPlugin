@@ -3,9 +3,8 @@
   "version": "1.0",
   "description": "Goes in an ever-expanding square",
   "url": "https://github.com/ItCameFr0mMars/StashFinderPlugin",
-  "authors": [ "ItCameFromMars", "etbes" ],
+  "authors": [ "ItCameFromMars", "etbes", "Kamigen" ],
   "main_class": "com.lambda.StashFinderPlugin",
   "min_api_version": "3.2",
-  "mixins": [ "mixins.ExamplePlugin.json" ],
   "required_plugins": []
 }
