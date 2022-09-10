@@ -1,9 +1,9 @@
 {
   "name": "StashFinder",
   "version": "1.0",
-  "description": "Goes in an ever-expanding square",
+  "description": "Finds stashes in a radius",
   "url": "https://github.com/ItCameFr0mMars/StashFinderPlugin",
-  "authors": [ "ItCameFromMars", "etbes", "Kamigen" ],
+  "authors": [ "Kamigen", "ItCameFromMars", "etbes"],
   "main_class": "com.lambda.StashFinderPlugin",
   "min_api_version": "3.2",
   "required_plugins": []
